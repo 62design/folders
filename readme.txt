@@ -39,6 +39,13 @@ NOTE: Media must be added to folders individually from within the Media browser 
 
 == Changelog ==
 
+= 1.3.0 =
+- Added bulk media folder assignment. This should now work on WordPress installations that are within a sub-directory as well as those that are not.
+
+= 1.2.17 =
+- Fixed undefined offset notices.
+(Thanks to Jon Chapman @ cedargroup.uk.com for bringing this to our attention)
+
 = 1.2.15 =
 - Removed a var_dump.
 
