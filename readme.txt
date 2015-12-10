@@ -39,6 +39,9 @@ NOTE: Media must be added to folders individually from within the Media browser 
 
 == Changelog ==
 
+= 1.3.1 =
+- Fixed issue with WordPress 4.4.
+
 = 1.3.0 =
 - Added bulk media folder assignment. This should now work on WordPress installations that are within a sub-directory as well as those that are not.
 
